@@ -40,3 +40,5 @@ https://gammalighttherapy.com/blogs/gammalight/how-to-build-a-gamma-40-hz-led-di
 https://medium.com/@cjus/hacking-alzheimers-4fc9f1d6217d 
 
 https://www.instructables.com/Gamma-Waves-Light-for-Brain-Stimulation-and-hope-A/
+
+https://www.youtube.com/watch?v=6SlD_mzZFY0
