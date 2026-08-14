@@ -36,3 +36,7 @@ Plug your Arduino into your computer and select the new board that appears under
 
 Additional Read:
 https://gammalighttherapy.com/blogs/gammalight/how-to-build-a-gamma-40-hz-led-dimmer?srsltid=AfmBOorOQhH2jKuapnqcWVs9gyOQ9zBiNp7hiJwbHYuU1ehk3dYtBo3Y
+
+https://medium.com/@cjus/hacking-alzheimers-4fc9f1d6217d 
+
+https://www.instructables.com/Gamma-Waves-Light-for-Brain-Stimulation-and-hope-A/
