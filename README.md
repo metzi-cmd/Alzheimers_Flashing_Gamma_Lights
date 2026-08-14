@@ -31,3 +31,8 @@ Open Flashing_Gamma_Lights.ino with the Aruino IDE.
 Make sure Arduino/Genuino Uno is selected under Tools > Board 
 Check the list of devices listed under Tools > Port
 Plug your Arduino into your computer and select the new board that appears under Tools > Port and you're ready to upload!
+
+
+
+Additional Read:
+https://gammalighttherapy.com/blogs/gammalight/how-to-build-a-gamma-40-hz-led-dimmer?srsltid=AfmBOorOQhH2jKuapnqcWVs9gyOQ9zBiNp7hiJwbHYuU1ehk3dYtBo3Y
